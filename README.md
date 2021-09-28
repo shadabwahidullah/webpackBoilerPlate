@@ -1,23 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Webpack Boiler plate
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+> this is a boiler plate for starting a project that I will configure webpack in it.
+>  When working on the project you will not want to run the build command from the terminal every time you make a change in the code. Therefore I will install a webpack dev server, which will watch my source files, generate compiled distribution files and even refresh the browser every time I save changes in the source code.
 
 ## Getting Started
 
@@ -26,34 +12,14 @@ Additional description about the project and its features.
 
 
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+clone the project and you can start your own project on it.
 
 ## Authors
 
-👤 **Author1**
+👤 **Wahidullah Shadab**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/shadabwahidullah)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/wahidullah-shadab-2712031a3)
 
 ## 🤝 Contributing
 
